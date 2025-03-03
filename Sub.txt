@@ -3,5 +3,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Neon_v2ray%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Neon_v2ray%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?encryption=none&security=tls&sni=Nl2-FulL.PrIvAteiP.NeT&type=ws&host=Nl2-FulL.PrIvAteiP.NeT&path=%2FVLESS#%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Neon_v2ray%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80
-vless://id1534916944@node2-hr9in.vpnvless.com:443?type=tcp&security=reality&pbk=t4xj72RwiT_AEeK0uzQZy4ixzkkPBfttu_SSCmJGbwg&fp=edge&sni=vk.com&sid=f0be&flow=xtls-rprx-vision#VlesVPNbot-32 🇷🇺
+vless://id1534916944@node2-hr9in.vpnvless.com:443?type=tcp&security=reality&pbk=t4xj72RwiT_AEeK0uzQZy4ixzkkPBfttu_SSCmJGbwg&fp=edge&sni=vk.com&sid=f0be&flow=xtls-rprx-vision#VlesVPNbot-321 🇷🇺
 trojan://tg-fq521free@torjan.xn--xhq44j.eu.org:443?security=tls&sni=torjan.xn--xhq44j.eu.org&fp=chrome&type=ws&path=/#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.95:443
