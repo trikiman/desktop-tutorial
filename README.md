@@ -13,3 +13,8 @@ Just Copy these links to your client to use:
 • Subscription 1:
 
 ```https://raw.githubusercontent.com/trikiman/desktop-tutorial/refs/heads/main/Sub.txt```
+<p>
+    <a href="https://raw.githubusercontent.com/trikiman/desktop-tutorial/refs/heads/main/Sub.txt" target="_blank">
+        <button>Скопировать ссылку</button>
+    </a>
+</p>
