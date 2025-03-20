@@ -10,11 +10,15 @@ This is your README. READMEs are where you can communicate what your project is 
 
 Just Copy these links to your client to use:
 
-• Subscription 1:
 
-```https://raw.githubusercontent.com/trikiman/desktop-tutorial/refs/heads/main/Sub.txt```
-<p>
-    <a href="https://raw.githubusercontent.com/trikiman/desktop-tutorial/refs/heads/main/Sub.txt" target="_blank">
-        <button>Скопировать ссылку</button>
-    </a>
-</p>
+
+- Subscription 1:
+```
+  https://raw.githubusercontent.com/trikiman/desktop-tutorial/refs/heads/main/Sub.txt
+```
+
+- Subscription 2: 
+```
+test
+```
+
