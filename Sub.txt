@@ -7,3 +7,5 @@ vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.44.156:443?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.41:8880?encryption=none&security=none&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-88.216.187.41%3A8880
 vless://9e47c972-0b82-4d27-b999-2dfc9e49ef2a@104.20.19.168:8880?encryption=none&security=none&type=ws&host=mohammad-amin-drvenom.rewet87136.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.20.19.168%3A8880
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-176.124.218.95%3A1080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.151.62.54%3A28825
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#%F0%9F%94%92%20TR-KINO-TLS%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.67.215.95%3A443
