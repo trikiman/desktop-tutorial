@@ -19,6 +19,6 @@ Just Copy these links to your client to use:
 
 - Subscription 2: 
 ```
-v2box://routes?multi=W3sibmFtZSI6InJvdXRlLjUwQzI0NUMyLTE4RUYtNDA4MC1BMjU2LTJDNkQwQ0ZDMzZBRSIsImxpc3QiOlsiZ2Vvc2l0ZTp5b3V0dWJlIl0sInRhZyI6InByb3h5IiwicmVtYXJrIjoieW91dHViZSIsInR5cGUiOiJEb21haW4iLCJpc0VuYWJsZSI6ZmFsc2UsIm1hdGNoTW9kZSI6ImtleXdvcmQiLCJsaXN0SVAiOltdfV0=
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ru/mixed
 ```
 
