@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.151.62.54%3A28825
 trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#%F0%9F%94%92%20TR-KINO-TLS%20%F0%9F%87%B7%F0%9F%87%BA%20RU-45.67.215.95%3A443
 vless://f5e7a64b-22c3-4924-ba65-b7bdd2fd2ca7@80.68.156.26:57790?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU!!!-80.68.156.26%3A57790
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.3:80?encryption=none&security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#%F0%9F%94%92%20VL-RUUUUUU-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-45.131.4.3%3A80
