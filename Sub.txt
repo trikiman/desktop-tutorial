@@ -8,4 +8,5 @@ vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.16.216.90:443?encryption=none&s
 vless://5ca82b56-31bd-4cc9-8251-ec8f742b750a@3n1.vpnchikx.pro:8443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=bunny.net&sid=4326&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU%F0%9F%87%B7%F0%9F%87%BA%2B%7C%2B45.139.24.24-57456%2B%7C%2B121.02ms
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&host=vle.amclubdns.dpdns.org&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%E4%BF%84%E7%BD%97%E6%96%AF%2BV2CROSS.COM
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#REALITY%7CRU%F0%9F%87%B7%F0%9F%87%BA
 
