@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4QDQ1LjE1MC4zMi4
 vless://8f7fe273-e06d-47d5-9deb-d7b3c95dc573@104.16.216.90:443?encryption=none&security=tls&sni=hai.gdz.buzz&type=ws&host=hai.gdz.buzz&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.216.90%3A443
 vless://5ca82b56-31bd-4cc9-8251-ec8f742b750a@3n1.vpnchikx.pro:8443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=bunny.net&sid=4326&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU%F0%9F%87%B7%F0%9F%87%BA%2B%7C%2B45.139.24.24-57456%2B%7C%2B121.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU%F0%9F%87%B7%F0%9F%87%BA%2B%7C%2B45.139.24.24-57456%2B%7C%2B125.03ms
