@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZIQDIwNC4xMzYuMTAuMTE1OjE4NjY=#%25E1%259B%2596%25E1%259B%2588%25E1%259B%259F%25E1%259B%259E%25E1%259B%259F%25E1%259A%25BE%25E1%259B%2581%25E1%259B%259F%25E1%259B%258A
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&encryption=none&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY%257CRU%25F0%259F%2587%25B7%25F0%259F%2587%25BA
+vless://0132740f-c0d4-5f8b-b283-77f3fd604c57@194.147.34.72:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=194.147.34.72&path=%2Fvless#Telegram%20%3A%20%40Ezaccess1%20Server%20%3A%20Russia
+
 
