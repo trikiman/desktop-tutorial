@@ -1,1 +1,1 @@
-vless://id1534916944@77.238.253.212:8443?flow=xtls-rprx-vision&fp=qq&pbk=YHFpmN9sjeg0c_GBtkpRvjlAwY3hkC1CKjr7NrJL7xk&security=reality&sid=9bfb83bf5b&sni=www.vk.com&spx=%2FuJUkkK0aaUaLY5B&type=tcp#1 | Нидерланды 🇳🇱 🔝
+vless://id8436144812@109.107.167.158:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QmVrMB5mUwNb8QpyPgV2quM8ghO-nm02-AjkK7aJrGA&security=reality&sid=2dba&sni=vk.com&spx=%2FhWdUEHPZEvpaacd&type=tcp#1 | Основной сервер 🌐
