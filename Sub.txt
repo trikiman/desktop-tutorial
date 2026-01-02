@@ -1,1 +1,3 @@
 vless://id8436144812@109.107.167.158:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QmVrMB5mUwNb8QpyPgV2quM8ghO-nm02-AjkK7aJrGA&security=reality&sid=2dba&sni=vk.com&spx=%2FhWdUEHPZEvpaacd&type=tcp#1 | Основной сервер 🌐
+vless://id8436144812@109.107.167.158:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QmVrMB5mUwNb8QpyPgV2quM8ghO-nm02-AjkK7aJrGA&security=reality&sid=22fdce18&sni=www.vk.com&spx=%2FAp6RcRS0gcE1Zvk&type=tcp#1 | Основной сервер 🌐
+vless://id8436144812@212.111.80.174:443?encryption=none&fp=chrome&host=&mode=auto&path=%2F&pbk=IFoUdZy8j2MCk7C19o9bE4bVO3nOKP0CFlQcfLPcewg&security=reality&sid=1768f61519468855&sni=ozon.ru&spx=%2F2xY1Y5Bju9fLIY6&type=xhttp#2 | Резерв XHTTP (Megafon, Tele2)
