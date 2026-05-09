@@ -1,5 +1,6 @@
 vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&sid=abc123&type=tcp&headerType=none#Direct-1
 vless://8892e34a-339b-4526-b88d-cf68c516231c@158.101.214.234:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=-im9quzVCKiVddXdq4qNFSQUSkXkEJtBH9-SjqvszSQ&sid=abc123&type=tcp&headerType=none#Direct-2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWFEydVRrSGN3UlNiRnRCTk5FY2gy@169.40.193.2:443
 vless://8892e34a-339b-4526-b88d-cf68c516231c@trikimanm1.b-cdn.net:443?encryption=none&security=tls&sni=trikimanm1.b-cdn.net&insecure=0&allowInsecure=0&type=ws&host=trikimanm1.b-cdn.net&path=%2Fstream#Proxy-Mobile-1
 vless://8892e34a-339b-4526-b88d-cf68c516231c@trikimanm2.b-cdn.net:443?encryption=none&security=tls&sni=trikimanm2.b-cdn.net&insecure=0&allowInsecure=0&type=ws&host=trikimanm2.b-cdn.net&path=%2Fstream#Proxy-Mobile-2
 vless://f834b1a5-dc5e-4878-a73c-ad0c80f8f748@84.54.29.173:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=#VPN_VIPER%252520%252528%2525D0%2525A0%2525D0%2525BE%2525D1%252581%2525D1%252581%2525D0%2525B8%2525D1%25258F%252529
